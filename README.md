@@ -70,4 +70,4 @@ The cleaned and transformed dataset is stored in multiple CSV files, structured 
 
 ![Participants' perspectives on AI](/dashboard/AI%20Trends.png)
 
-!['Demographics](/dashboard/demographics.png)
+!['Demographics](/dashboard/Demographics.png)
